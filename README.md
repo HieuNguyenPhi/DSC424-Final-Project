@@ -3,6 +3,7 @@
 ## PROGRESS
 
 Goal: 7-page Research Paper + 2-page executive summary
+
 	1. Executive Summary: 2 pages
 	2. Abstract: 0.5 pages
 	3. Introduction: 1 page
@@ -11,7 +12,9 @@ Goal: 7-page Research Paper + 2-page executive summary
 	6. Results and Discussions: 3 pages
 	7. Conclusion: 0.5 pages
 	8. Reference/ Appendix: not count
+
 Deadline: 
+
 	- 18 Aug: Final paper presentation
 	- 23 Aug: Final paper submission
 
