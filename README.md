@@ -29,7 +29,7 @@ Assigning Task + Timeline
 | Result and Discussion | Writing result and discussion | From the output, writing result | Team | Aug 17 2021 | Essay |
 | Conclusion and Introduction | Writing conclusion and introduction | From above outputs | Team | Aug 17 2021 | Essay |
 | Executive summary and Abstract | Writing executive summary and abstract | From above outputs | 1 person | Aug 17 2021 | Essay |
-| Prepare PPT file for presentation | PPT preparing and Presenting | |2 persons | Aug 18 2021 | 1 file PPT and Presenting via Skype |
+| Prepare PPT file for presentation | PPT preparing and Presenting | |2 persons, team answer the questions from Prof. | Aug 18 2021 | 1 file PPT and Presenting via Skype |
 | Document for submission | Writing paper | Adjust paper from the comments in presentation, customize the paper such as format, reference, citation, etc. | Team | Aug 23 2021 | 1 file PDF |
 
 Update Tool: GitHub for storing document and code files (Python and R), easy for sync and updating the info of code changes.
